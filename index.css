@@ -137,7 +137,20 @@ nav{
     background-color: white;
     border-bottom: 1.5px solid rgba(128, 128, 128, 0.203);
 }
+.nav-button{
+
+    display: grid;
+    grid-auto-flow: column;
+    gap: 15px;
+    padding-top: 15px;
+}
+.nav-button button{
+    height: 25px;
+    border-radius: 20px;
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.203);
+}
 main{
     grid-area: main;
-    background-color: rgba(236, 236, 236, 0.248);
+    background-color: rgba(233, 230, 230, 0.222);
 }
