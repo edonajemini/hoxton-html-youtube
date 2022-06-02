@@ -197,29 +197,95 @@ main p{
 }
 .second{
     grid-area: second;
-    background-color:beige
+    background-color:transparent;
+}
+#round2 {
+    padding: 7px;
+    width:40px;
+    height: 40px;
+}
+.second img{
+    width: 250px;
+    height: 139px;
 }
 .third{
     grid-area: third;
-    background-color:blanchedalmond
+    background-color:transparent;
+}
+#round3 {
+    padding: 7px;
+    width:40px;
+    height: 40px;
+}
+.third img{
+    width: 250px;
+    height: 139px;
 }
 .fourth{
     grid-area: fourth;
-    background-color: blueviolet;
+    background-color: transparent;
 }
+#round4 {
+    padding: 7px;
+    width:40px;
+    height: 40px;
+}
+.fourth img{
+    width: 250px;
+    height: 139px;
+}
+
 .fifth{
     grid-area: fifth;
-    background-color: brown;
+    background-color: transparent;
 }
+#round5 {
+    padding: 7px;
+    width:40px;
+    height: 40px;
+}
+.fifth img{
+    width: 250px;
+    height: 139px;
+}
+
 .six{
     grid-area: six;
-    background-color:azure;
+    background-color:transparent;
 }
+#round6 {
+    padding: 7px;
+    width:40px;
+    height: 40px;
+}
+.six img{
+    width: 250px;
+    height: 139px;
+}
+
 .seven{
     grid-area: seven;
-    background-color: chartreuse;
+    background-color: transparent;
+}
+#round7 {
+    padding: 7px;
+    width:40px;
+    height: 40px;
+}
+.seven img{
+    width: 250px;
+    height: 139px;
 }
 .eight{
     grid-area: eight;
-    background-color: coral;
+    background-color: transparent;
+}
+#round8 {
+    padding: 7px;
+    width:40px;
+    height: 40px;
+}
+.eight img{
+    width: 250px;
+    height: 139px;
 }
