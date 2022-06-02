@@ -7,7 +7,7 @@
 body{
     display: grid;
     grid-template:
-    'header header' 50px
+    'sidebar header' 50px
     'sidebar nav' 50px
     'sidebar main' 600px/
      200px auto
