@@ -68,6 +68,12 @@ header{
     padding-right: 10px;
     color: rgb(82, 80, 80);
 }
+span{
+    padding-left: 25px;
+    padding-right: 10px;
+    justify-content: center;
+}
+
 .sidebar-header{
     padding-top: 10px;
     padding-bottom: 10px;
@@ -134,7 +140,9 @@ header{
     grid-auto-flow: row;
     gap: 1px;
     align-items: center;
+    align-content: center;
 }
+
 nav{
     grid-area: nav;
     background-color: white;
