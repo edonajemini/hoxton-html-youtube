@@ -36,7 +36,7 @@ header{
     height: 20px;
     border-radius: 5px 0 0 5px;
     outline: none;
-    color: rgba(128, 128, 128, 0.203);
+    color: rgb(13, 1, 1);
   }
   
   .searchButton {
@@ -85,12 +85,15 @@ span{
     padding-bottom: 20px;
     border-bottom: 1.5px solid rgba(128, 128, 128, 0.203);
     font-size: 12px;
+    display: grid;
 }
 .sidebar-middle{
     padding-top: 10px;
     padding-bottom: 20px;
     border-bottom: 1.5px solid rgba(128, 128, 128, 0.203);
     font-size: 12px;
+    display: grid;
+    grid-template-columns: auto;
 }
 .sidebar-middle2{
     padding-top: 10px;
