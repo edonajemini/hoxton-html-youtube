@@ -110,14 +110,10 @@ span{
     margin-right: 40px;
     padding: 3px;
     background-color: white;
-    align-content: center;
-    align-items: center;
-    text-align:start;
-    display: grid;
+    display: flex;
     font-size: 10px;
-    border:1px solid rgba(15, 90, 220, 0.746);
-    height: 30px;
-    width: 100px;
+    border: 1px solid rgb(91, 149, 215);
+    border-radius: 2px;
 }
 .button:hover{
     background-color: rgba(220, 220, 220, 0.188);
